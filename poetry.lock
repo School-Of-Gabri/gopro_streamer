@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "GoPro WiFi API Wrapper for Python - Compatible with HERO3, HERO3+, HERO4, HERO5, HERO+, HERO6"
+name = "goprocam"
+optional = false
+python-versions = "*"
+version = "4.0.3"
+
+[metadata]
+content-hash = "55062414ae8931d445c2cc35cf2c90c36391d1d8369cdc7ca764e3c36134589d"
+python-versions = "^3.7"
+
+[metadata.files]
+goprocam = [
+    {file = "goprocam-4.0.3.tar.gz", hash = "sha256:57ad9fa24dced9eab42fa4648d57ed7302dde62873a5b9bed9f6ee7091176db8"},
+]
